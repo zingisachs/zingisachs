@@ -4,12 +4,12 @@
  width: 100%;
 }
 
-@media screen and (max-width: 1680px){
+/*@media screen and (max-width: 1680px){
  .slideshow{
  width:50%;
   margin: 0 auto;
  }
-}
+}*/
 
 .slideshow img {
   width: 100%; 
