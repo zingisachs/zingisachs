@@ -1,0 +1,53 @@
+LUSA Studio {
+
+@Mtiyo Libonge       -->  L
+@Nqamqhele Unathi    -->  U
+@Nkebe Sipho         -->  S
+@Nolakana Alulutho   -->  A
+
+}
+
+Designed: LUSA Studio
+
+Developed: LUSA Studio
+
+Content writer: Nongcula Milisa
+
+©️Copyright: Zingisa Comprehensive High School
+
+License: This site was developed by LUSA Studios, and will continue to be maintained by this group until 2025. After this period, the website will continue to be maintained internally by other inspirating web developers in the institution.
+
+Credits(stock-media):
+
+  Illustrations:
+     from different sources(can't name them individually, but we credit them.
+     
+     
+  Images:
+          Zingisa CHS Community
+          
+		
+	Icons:
+		Font Awesome (fontawesome.io)
+		
+		
+Special thanks:
+
+   Phutha Mzola
+   Mabunzana Siyamthanda
+   Zanele Onawo
+   Tuto Ndudula
+   Ntshaqa Lihle
+   Sinyekemba Mihlali
+   Nqaba Sangoni
+   Mihle Tupa
+   Milisa Nongcula
+   Linamandla Mpoza
+
+
+
+Created: 2022
+Hosted: netlify
+github: zingisachs.github.io
+repository: zingisachs.github.io
+
